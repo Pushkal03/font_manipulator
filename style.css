@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+
+#heading{
+    color: yellow;
+    background-color: red;
+}
+
+#note_div{
+    background-color: #fc9803;
+}
+
+#second_heading{
+    color:white;    
+}
+
+#font_size{
+    color: white;
+}
+
+.footer{
+    background-color: gray;
+    margin-top: 457px;
+    color:white;    
+}
